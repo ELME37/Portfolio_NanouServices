@@ -17,7 +17,7 @@ export default function Home() {
       <Head>
         <title>Nanou Services</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Des services à domicile qui simplifient votre vie - Garde d'enfants / Cuisine Maison / Femme de ménage / Conciergerie" />
+        <meta name="description" content="Des services à domicile qui simplifient votre vie - Garde d'enfants / Cuisine Maison / Femme de ménage / Conciergerie sur les secteurs de Nivillac et alentours notamment sur La Roche-Bernard, Herbignac, Pénestin, Muzillac, département du Morbihan" />
         <meta name="keywords" content="services à domicile, garde d'enfants, cuisine maison, femme de ménage, conciergerie, Nivillac, La Roche-Bernard, Herbignac, Pénestin, Muzillac, Morbihan" />
         <meta name="author" content="Nanou Services" />
         <meta property="og:title" content="Nanou Services - Services à domicile" />
